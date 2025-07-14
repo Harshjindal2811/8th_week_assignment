@@ -1,7 +1,7 @@
 
-# 🚖 Project: NYC Taxi Data Analysis Using Azure Databricks
+# 🚖  NYC Taxi Data Analysis Using Azure Databricks
 
-This project demonstrates how to load NYC Yellow Taxi trip data from Azure Blob Storage into Azure Databricks and run analytical queries using PySpark and SQL. The results are then saved in an external Parquet format for further use.
+This assignment demonstrates how to load NYC Yellow Taxi trip data from Azure Blob Storage into Azure Databricks and run analytical queries using PySpark and SQL. The results are then saved in an external Parquet format for further use.
 
 ---
 
